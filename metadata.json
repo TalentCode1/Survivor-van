@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VanSurvivor",
+  "description": "A gamified survival guide for students and immigrants in Vancouver. Navigate the city, manage your stats, and survive the rainy west coast lifestyle!",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
